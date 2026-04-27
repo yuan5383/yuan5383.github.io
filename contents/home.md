@@ -17,5 +17,5 @@ Future: M.S. or Ph.D. in Astronomy, Beijing Normal University (starting 2026).
 Laser-driven plasma radiation sources
 
 #### Supervisor  
-Xiaofei Lan , Bin Sun 
+Xiaofei Lan , Bin Sun ，Yangfan He
 <!-- 请在此处填写您的指导教师姓名，例如：Prof. Xiaoming Zhang -->
