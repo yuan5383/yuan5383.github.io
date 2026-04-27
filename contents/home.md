@@ -7,7 +7,7 @@ He is currently a student in Physics at the School of Physics and Astronomy, Chi
 
 #### Contact
 
-Email: pengfan.c[at]qq.com  
+Email: pengfan.c@qq.com  
 
 #### Education  
 B.Sc. in Physics, China West Normal University, 2023 – present (expected 2026). \ 
