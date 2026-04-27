@@ -1,17 +1,21 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![yuan5383](https://img.shields.io/badge/yuan5383-github-blue?logo=github)](https://github.com/yuan5383)
+<!-- 请将上面的 PengfanChen 和链接改为你的真实 GitHub 用户名 -->
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a student in Physics at the School of Physics and Astronomy, China West Normal University. He will pursue Astronomy at the School of Physics and Astronomy, Beijing Normal University.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: pengfan.c[at]qq.com  
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+#### Education  
+B.Sc. in Physics, China West Normal University, 2023 – present (expected 2026). \ 
+Future: M.S. or Ph.D. in Astronomy, Beijing Normal University (starting 2026).
 
-#### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+#### Research Interests  
+Laser-driven plasma radiation sources
 
+#### Supervisor  
+Xiaofei Lan , Bin Sun 
+<!-- 请在此处填写您的指导教师姓名，例如：Prof. Xiaoming Zhang -->

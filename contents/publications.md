@@ -1,16 +1,10 @@
 #### Submitted
 
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- To be determined.
 
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>Pengfan Chen</strong>, Hailong Zhou, Li Xiong, Xin Chen, Yuanping Tang, Yuhao Feng, Xiaofei Lan, Bin Sun, Yangfan He. Generation of attosecond γ-ray pulse train driven by a Laguerre Gaussian laser in conical frustum. <strong>Plasma Physics and Controlled Fusion</strong>, Vol. 67, 095018 (2025). [[Paper]](https://doi.org/10.1088/1361-6587/ae02c3)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
-
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- <strong>Pengfan Chen</strong>, Yanli Long, Anrong Fan, Yuhao Feng, Bin Sun, Xiaofei Lan, Yangfan He. Attosecond MeV γ-ray pulse compression via radiation-lifetime shortening in a longitudinal magnetic field. <strong>Applied Physics Letters</strong>, Vol. 128, 111103 (2026). [[Paper]](https://doi.org/10.1063/5.0303752)
 
